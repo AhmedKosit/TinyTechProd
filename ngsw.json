@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1750422947576,
+  "index": "/TinyTech/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/TinyTech/favicon.ico",
+        "/TinyTech/index.html",
+        "/TinyTech/main-XARFTUGJ.js",
+        "/TinyTech/manifest.webmanifest",
+        "/TinyTech/polyfills-EJ46DL77.js",
+        "/TinyTech/scripts-EEEIPNC3.js",
+        "/TinyTech/styles-52L3UM6X.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/TinyTech/assets/images/Arm.jpg",
+        "/TinyTech/assets/images/Arm2.jpg",
+        "/TinyTech/assets/images/Car.jpg",
+        "/TinyTech/assets/images/TinyTech.png",
+        "/TinyTech/assets/images/blog/blog-1.jpg",
+        "/TinyTech/assets/images/blog/blog-2.jpg",
+        "/TinyTech/assets/images/blog/blog-3.jpg",
+        "/TinyTech/assets/images/blog/blog-4.jpg",
+        "/TinyTech/assets/images/blog/blog-5.jpg",
+        "/TinyTech/assets/images/blog/blog-6.jpg",
+        "/TinyTech/assets/images/blog/blog-inside-post.jpg",
+        "/TinyTech/assets/images/blog/blog-recent-1.jpg",
+        "/TinyTech/assets/images/blog/blog-recent-2.jpg",
+        "/TinyTech/assets/images/blog/blog-recent-3.jpg",
+        "/TinyTech/assets/images/blog/blog-recent-4.jpg",
+        "/TinyTech/assets/images/blog/blog-recent-5.jpg",
+        "/TinyTech/assets/images/cta.png",
+        "/TinyTech/assets/images/hero-bg.png",
+        "/TinyTech/assets/images/hero-img.svg",
+        "/TinyTech/assets/images/robo-wunderkind--_QpJv4J_AA-unsplash.jpg",
+        "/TinyTech/assets/images/robo-wunderkind-3EuPcI31MQU-unsplash.jpg",
+        "/TinyTech/assets/images/robo-wunderkind-oUgZVBaGcEQ-unsplash.jpg",
+        "/TinyTech/assets/images/signin-image.jpg",
+        "/TinyTech/assets/images/signup-image.jpg",
+        "/TinyTech/media/1x1.gif",
+        "/TinyTech/media/delete-icon.svg",
+        "/TinyTech/media/dropdown-arrow.svg",
+        "/TinyTech/media/foldout-icon.svg",
+        "/TinyTech/media/handclosed.cur",
+        "/TinyTech/media/handdelete.cur",
+        "/TinyTech/media/handopen.cur",
+        "/TinyTech/media/hero-bg-55DNWN2R.png",
+        "/TinyTech/media/pilcrow.png",
+        "/TinyTech/media/quote0.png",
+        "/TinyTech/media/quote1.png",
+        "/TinyTech/media/resize-handle.svg",
+        "/TinyTech/media/sprites.png",
+        "/TinyTech/media/sprites.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/TinyTech/assets/images/Arm.jpg": "1bfe2324f749e1c564379504019a81eed18bec82",
+    "/TinyTech/assets/images/Arm2.jpg": "7293e50e739f53f103778979115ae3095b5302fa",
+    "/TinyTech/assets/images/Car.jpg": "2cc6b71e0db94cd5016218909d1026d1f28958cd",
+    "/TinyTech/assets/images/TinyTech.png": "a8b94453843556397dc1cc044f40d6f6433aa746",
+    "/TinyTech/assets/images/blog/blog-1.jpg": "f4ae1e60740adabdb4f212182d31720d04abd417",
+    "/TinyTech/assets/images/blog/blog-2.jpg": "d86348e65c96701cf5039d8f047358c01123154d",
+    "/TinyTech/assets/images/blog/blog-3.jpg": "503557031941d792c9735ce3503f1900e92b68a1",
+    "/TinyTech/assets/images/blog/blog-4.jpg": "8f5b0a4f1af9a5056dd6337129a3c5d35cf43e7b",
+    "/TinyTech/assets/images/blog/blog-5.jpg": "ee3bfc5384025c4d8061c02603310fb7f0daa6a3",
+    "/TinyTech/assets/images/blog/blog-6.jpg": "510e875b8750c98efd6de3a2265db4938e4ac381",
+    "/TinyTech/assets/images/blog/blog-inside-post.jpg": "a29620b18cbc731c51a123d4b0a1f93309157da4",
+    "/TinyTech/assets/images/blog/blog-recent-1.jpg": "8b685d770dee0a1a1e732c5925116f1ce41184ee",
+    "/TinyTech/assets/images/blog/blog-recent-2.jpg": "ccf9404f7bec2eb13182829e5b22ac2ce9b9f8e4",
+    "/TinyTech/assets/images/blog/blog-recent-3.jpg": "420b1d55bf9dac5fbc5b59794d6848dbcc93882f",
+    "/TinyTech/assets/images/blog/blog-recent-4.jpg": "6c4dbc86f69598fea98b2b0322091c24b750fa28",
+    "/TinyTech/assets/images/blog/blog-recent-5.jpg": "503557031941d792c9735ce3503f1900e92b68a1",
+    "/TinyTech/assets/images/cta.png": "5f10c1630e269acba1f687e9ef65192b4f1bb2d9",
+    "/TinyTech/assets/images/hero-bg.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/TinyTech/assets/images/hero-img.svg": "5337d98ec868f63cd7ed9eeb7971c0593f5eec81",
+    "/TinyTech/assets/images/robo-wunderkind--_QpJv4J_AA-unsplash.jpg": "8ace0279e4d6fcf38d86e28928165a53d08e3987",
+    "/TinyTech/assets/images/robo-wunderkind-3EuPcI31MQU-unsplash.jpg": "5fe227fb81ba773800a8b52216adcb94ef34afdc",
+    "/TinyTech/assets/images/robo-wunderkind-oUgZVBaGcEQ-unsplash.jpg": "d5a3147e6681eb5266098d6ebdc607da8a9e3133",
+    "/TinyTech/assets/images/signin-image.jpg": "1418ee335dd2ad0f2d42e59ed40040ee9a6ebc07",
+    "/TinyTech/assets/images/signup-image.jpg": "cda68cb86ef3a0c856f7ede2b5ca7e095fd66fdf",
+    "/TinyTech/favicon.ico": "b68b9988b67cb7d5383fb1382a178ac8ce236361",
+    "/TinyTech/index.html": "9c08a098ff86065be7038d2a1e7944caf7b5d7a7",
+    "/TinyTech/main-XARFTUGJ.js": "90ab9bf5b8307c5aa2c4376e4da9409e05fdc192",
+    "/TinyTech/manifest.webmanifest": "a79435b836e83d9ed5011f7843617df64dafa29f",
+    "/TinyTech/media/1x1.gif": "d320e24aa364fe2f0c10f71829c55e6ea7073f24",
+    "/TinyTech/media/delete-icon.svg": "29c8f3e5553e9f5e2ae30c0c8f5b9d1e5290a55f",
+    "/TinyTech/media/dropdown-arrow.svg": "d016f387536ccbddf580eb62e709908b74acfb95",
+    "/TinyTech/media/foldout-icon.svg": "f804804f544fe4ffd0d18851c6a4f65c02c1b5be",
+    "/TinyTech/media/handclosed.cur": "41b7218ee0a06265c3385ea6dab452e23cef682f",
+    "/TinyTech/media/handdelete.cur": "8dd902ba264c38c866ae6cc5e77fdb6cc3b31cdf",
+    "/TinyTech/media/handopen.cur": "5a0e3062b7ef8d476f5d9fbb357c7a9985ca7883",
+    "/TinyTech/media/hero-bg-55DNWN2R.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/TinyTech/media/pilcrow.png": "41b4ec6cf3e0dbb4e4afb8572e1f1495b549b5f9",
+    "/TinyTech/media/quote0.png": "cab2cb9e7323239c8d12c16014df7e206bea21c3",
+    "/TinyTech/media/quote1.png": "a4c9f2b433fc325b72a99866936d7effe71958c0",
+    "/TinyTech/media/resize-handle.svg": "f9086388c6f7fcafbacbe31ac45f391a1fa78bd7",
+    "/TinyTech/media/sprites.png": "10d452001d13971bcdab151e029f1160e70b32f6",
+    "/TinyTech/media/sprites.svg": "a68d56b1c26da3e55d6e04699cceec36ea6d4a99",
+    "/TinyTech/polyfills-EJ46DL77.js": "01500e27968fb09f51100a67f46a69297cc263de",
+    "/TinyTech/scripts-EEEIPNC3.js": "2318ded8c885787a1645385a82c1ca883c359034",
+    "/TinyTech/styles-52L3UM6X.css": "755e7485ec1494af95ac5924870b67542364cc4d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
